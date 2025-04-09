@@ -12,6 +12,7 @@ def test_summation():
     assert summation(2, 10) == 12
     assert summation(3, 5) == 8
     assert summation(4, 6) == 10
+    assert summation(4, 7) == 11
 
 def test_subtraction():
     """
